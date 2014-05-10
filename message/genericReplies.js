@@ -279,6 +279,17 @@ var handlers = {
       'Not even 8.'
     ]
   }
+  
+  slendyTubbies: {
+    triggers: [
+      /\bwh?at (?:how|with) (?:play) (?:slendytubbies|slendy|tubbies) (?:hamachi|multiplayer|you) \b/i
+    ],
+    responses: [
+      'You are so 2013.',
+      'Plz join me server ip iss 127.0.0.1',
+      'Multiplayer chat , hop hop.'
+    ]
+  }
 };
 
 var handled = false;
