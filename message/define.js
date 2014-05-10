@@ -52,6 +52,7 @@ var manualDefinitions = {
   'comico': 'A GameJolt moderator. Owns two GMail accounts. One exclusively for the ladies.',
   'barry': 'A GameJolt user. I laugh at him for failing La Noire. Has a deep love-hate relationship with Maya. Seems to struggle understanding the purpose of left shoes.',
   'clonzeh': 'A GameJolt user. Self proclaimed as the answer to division by 0.',
+  'braffolk': 'A GameJolt user. Likes to eat sheep.',
   'mantas': 'A GameJolt user. Either he\'s Fernando\'s clone or Fernando\'s his clone. Common in GameJolt on sick days. Follower of Tim Minchin.',
   'jelly': '1. Being jealous, or hating. 2. A GameJolt user. Procrastinator that likes gooseberry Jell-o™, drawing and enters randomly the chat by saying \'Jello\'. Undefined gender, it\'s a Gumby G Blockhead.',
   'eleuin': 'A GameJolt user. A proud Linux nazi activist at day, and faps for Windows at night. Goes by many names in hopes of remaining anonymous, but not from me. Not from ChatJolt.',
